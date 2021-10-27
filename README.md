@@ -7,18 +7,18 @@ Aplikasi ini merupakan aplikasi pembagian atas hasil bonus buruh berdasarkan per
 - [JQuery 3.6.0](https://jquery.com/).
 
 ## Pengunaan
-- [Clone atau download zip repo ini.]
-- [Open project CODING_CHALLENGE dengan text editor.]
-- [Pastikan memiliki local server untuk menggunakan MYSQL.]
-- [Jika belum tersedia databasenya bisa dibuat dengan nama "test_coding" atau juga bisa import file "test_coding.sql" yang terdapat di forlder public.]
-- [Jika tidak melakukan import pastikan migrations database projectnya dengan menggunakan CMD. lihat di doc -[laravel.com](laravel.com)]
-- [Running project server laravelnya dengan CMD "php artisan serve".]
-- [Enjoy with Program.]
+- Clone atau download zip repo ini.
+- Open project CODING_CHALLENGE dengan text editor.
+- Pastikan memiliki local server untuk menggunakan MYSQL.
+- Jika belum tersedia databasenya bisa dibuat dengan nama "test_coding" atau juga bisa import file "test_coding.sql" yang terdapat di forlder public.
+- Jika tidak melakukan import pastikan migrations database projectnya dengan menggunakan CMD. lihat di doc -[laravel.com](laravel.com)
+- Running project server laravelnya dengan CMD "php artisan serve".
+- Enjoy with Program.
 
 ## Warning
 
 jika terdapat kendala registrasi atau login silahkan import database "test_coding.sql" yang sudah terdapat data account. Silahkan login dengan account dibawah ini.
-Admin -> email : admin@gmail.com
+- Admin -> email : admin@gmail.com
          pass  : admin123
-User  -> email : user@gamil.com
+- User  -> email : user@gamil.com
          pass  : user12345
